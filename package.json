@@ -1,0 +1,10 @@
+{
+  "name": "midknight",
+  "description": "MidKnight is a light-weight 2d javascript game engine.",
+  "license": "MIT",
+  "type": "module",
+  "main": "./MidKnight/lib/index.js",
+  "dependencies": {
+    "gl-matrix": "^3.4.3"
+  }
+}
